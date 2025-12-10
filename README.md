@@ -3,7 +3,7 @@
 # Active Defense: SIEM Implementation & SSH Hardening
 
 ## Mission Statement
-[Insert the Mission Statement I wrote for you in the previous turn]
+[This project implements a 'Purple Team' simulation to address the risks of internal network compromises and lateral movement. By integrating concepts from Module 1 (Threats & Attacks), Module 9 (Security Architecture), and Module 14 (Incident Response), we have designed an isolated security lab using Docker containers. Our team operates as both the attacker—executing active reconnaissance and SSH brute force attacks against a vulnerable gateway—and the defender, utilizing a Wazuh SIEM to detect, log, and analyze these threats in real-time. The objective is to demonstrate the complete lifecycle of a security incident, from initial network scanning to final detection and reporting.]
 
 ## Tech Stack
 * **Virtualization:** Docker Engine
@@ -46,6 +46,6 @@
     ## Individual Contribution Summary
 | Team Member | Role | Story Points Completed | Contribution % |
 | :--- | :--- | :--- | :--- |
-| [Your Name] | System Architect/Red Team | [Sum of your points] | 50% |
-| [Partner Name] | Blue Team Analyst | [Sum of their points] | 50% |
-| [Partner Name] | Blue Team Analyst | [Sum of their points] | 50% |
+| [Your Name] | System Architect/Red Team | [10] |
+| [Esai] | Red Team | [8] |
+| [Asia] | Blue Team Analyst | [7] |
