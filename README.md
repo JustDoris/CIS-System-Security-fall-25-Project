@@ -1,5 +1,22 @@
 # CIS-System-Security-fall-25-Project
 
+# Active Defense: SIEM Implementation & SSH Hardening
+
+## Mission Statement
+[Insert the Mission Statement I wrote for you in the previous turn]
+
+## Tech Stack
+* **Virtualization:** Docker Engine
+* **SIEM:** Wazuh (Manager, Indexer, Dashboard)
+* **Target:** Ubuntu 22.04 LTS
+* **Attack Tools:** Kali Linux (Nmap, Hydra)
+
+## Individual Contribution Summary
+| Team Member | Role | Story Points Completed | Contribution % |
+| :--- | :--- | :--- | :--- |
+| [Your Name] | System Architect/Red Team | [Sum of your points] | 50% |
+| [Partner Name] | Blue Team Analyst | [Sum of their points] | 50% |
+
 ##  Project Team & Roles
 
 **Nathaniel (Project Lead & System Architect)**
