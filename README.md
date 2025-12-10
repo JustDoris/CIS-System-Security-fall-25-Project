@@ -45,7 +45,7 @@
 
     ## Individual Contribution Summary
 | Team Member | Role | Story Points Completed |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | 
 | [Your Name] | System Architect/Red Team | [10] |
 | [Esai] | Red Team | [8] |
 | [Asia] | Blue Team Analyst | [7] |
