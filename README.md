@@ -44,7 +44,7 @@
     * Documents findings, chain of custody, and produces the final Incident Response Report in the Wiki.
 
     ## Individual Contribution Summary
-| Team Member | Role | Story Points Completed | Contribution % |
+| Team Member | Role | Story Points Completed |
 | :--- | :--- | :--- | :--- |
 | [Your Name] | System Architect/Red Team | [10] |
 | [Esai] | Red Team | [8] |
