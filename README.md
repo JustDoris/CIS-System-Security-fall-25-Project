@@ -11,6 +11,18 @@
 * **Target:** Ubuntu 22.04 LTS
 * **Attack Tools:** Kali Linux (Nmap, Hydra)
 
+## What did we build? (The Architecture)
+- The Concept: We built a "SOC in a Box." Instead of needing 3 physical computers, we used Docker to simulate a corporate network inside a single laptop.
+
+- The Components:
+  - The Brain (Wazuh SIEM): This is the security center. It collects data, looks for hackers, and generates the alerts we see on the screen.
+  - The Victim (Ubuntu Server): This represents an employee's server or a company website. It is the target we are going to attack.
+  - The Spy (Wazuh Agent): A small piece of software we installed on the Victim. It acts like a security camera, watching files and network traffic and  sending reports back to the Brain.
+
+- Why did we use Docker?
+  - Efficiency: We spun up an entire Security Operations Center (SOC) in minutes rather than hours.
+  - Isolation: If we accidentally destroy the "Victim" with malware, it doesn't hurt our real computers. We just delete the container and start a new one.
+
 ##  Project Team & Roles
 
 **Nathaniel (Project Lead & System Architect)**
